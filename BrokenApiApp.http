@@ -1,0 +1,6 @@
+@BrokenApiApp_HostAddress = http://localhost:5037
+
+GET {{BrokenApiApp_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
